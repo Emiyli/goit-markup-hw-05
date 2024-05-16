@@ -554,7 +554,7 @@ img {
   }
 
 .footer-logo-text {
-    margin-right: 120px;
+   /* margin-right: 120px;*/
 }
 
 
@@ -562,6 +562,13 @@ img {
     display: flex;
     column-gap: 120px;
   } 
+
+
+.social-media-container {
+padding-top: 100px;
+padding-left: 120px;
+
+}  
 
 .footer-social {
     display: flex;
@@ -591,7 +598,7 @@ img {
     letter-spacing: 0.02em;
     color: rgb(244, 244, 253);
     max-width: 264px;
-    margin-right: 120px;
+   /* margin-right: 120px; */
     
 }
 
@@ -627,6 +634,11 @@ img {
 .footer-text-color {
     color: #f4f4fd ;
     
+}
+
+.footer-social-text {
+    color: #f4f4fd ;
+    padding-bottom: 16px;
 }
 
 .social-media-container {
